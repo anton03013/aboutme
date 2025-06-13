@@ -43,13 +43,13 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anton03013&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anton03013&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anton03013&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anton03013&theme=tokyonight" width="48%" />
 </p>
 
 <!-- Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anton0313&theme=darkhub&no-frame=true&column=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anton03013&theme=darkhub&no-frame=true&column=4&row=1" />
 </p>
 
 <!-- Connect -->
